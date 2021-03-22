@@ -1,0 +1,2 @@
+# Arduino-Projects
+Buradaki kodlar ve şemalar derslere gelmeden önce hazırlık yapmanız için özellikle telefondan daha rahat kullanabileceğiniz için eklenmiştir. Ders öncesi veye sonrasında tekrar etmek için mutlaka similasyonda uygulama yapmaya çalışınız. Kodlara eklediğim açıklama satırlarında kodların anlamları ve ne işe yaradıkları mevcuttur anlaşılmayan yerleri sorabilirsiniz. https://www.tinkercad.com/dashboard sitesine ücretsiz üye olarak circuits kısmından devrelerinizi tasarlayabilirsiniz.Özellikle derslere gelmeden bağlantı şemalarını ve kodları inceleyiniz.
