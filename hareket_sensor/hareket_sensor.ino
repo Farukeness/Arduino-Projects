@@ -1,5 +1,5 @@
-#define trigger_pin = 7;
-#define echo_pin = 6;
+#define trigger_pin 7
+#define echo_pin 6
 
 int sure;
 int mesafe;
